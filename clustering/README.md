@@ -19,8 +19,4 @@ Note that grom the jupyter hub, you won't be able to connect to the internet, so
 
     mkdir toto
     cd toto
-<<<<<<< HEAD:clustering/README.md
     cp -r /home1/datahome/gmaze/lopsdata .
-=======
-    cp -r /home1/datahome/gmaze/lopsdata .
->>>>>>> master:README.md

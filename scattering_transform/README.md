@@ -1,0 +1,1 @@
+Usefull notebooks and scripts for LOPS data-camp on "Scattering Transforms"
