@@ -12,6 +12,7 @@ conda install -n lopsformationdata gsw # Python implementation of TEOS-10 GSW ba
 conda install -n lopsformationdata cartopy # Make drawing maps for data analysis and visualisation as easy as possible
 conda install -n lopsformationdata scikit-learn # Machine Learning in Python
 conda install -n lopsformationdata seaborn # Statistical data visualization using matplotlib
+conda install -n lopsformationdata geos # Geometry Engine, Open Source
 
 # Add lopsformationdata kernel to jupyter:
 conda install -n lopsformationdata ipykernel
