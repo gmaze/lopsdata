@@ -9,7 +9,6 @@ from scipy.fftpack import fft,ifft
 from scatter import scatter
 import scipy as scipy
 
-
 def main():
     
     #=======================================================================
