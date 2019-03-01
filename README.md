@@ -9,13 +9,13 @@ The [Laboratory for Ocean Physics and Satellite remote sensing (LOPS)](https://w
 
 ## Coming-up next:
 
-### Interactive visualisation tools
-TBA
-
 ### Predictive modelling with analogs 
 Apr. 23-26th, 2019, F. Sevellec
 
 ## Previously:
+
+### Interactive visualisation tools
+Mar. 1st, 2019, A. Grouazel
 
 ### Scattering Transform
 Dec. 17th, 2018, J.M. Delouis
