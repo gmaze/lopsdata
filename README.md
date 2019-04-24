@@ -12,6 +12,8 @@ The [Laboratory for Ocean Physics and Satellite remote sensing (LOPS)](https://w
 ### Predictive modelling with analogs 
 Apr. 24th, 2019, F. Sevellec
 
+Room D109, 10am
+
 ## Previously:
 
 ### Interactive visualisation tools
